@@ -1,0 +1,3 @@
+# .github
+
+La boa ideia.
